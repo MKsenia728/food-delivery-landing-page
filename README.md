@@ -4,7 +4,7 @@ A responsive landing page for a food delivery service.
 
 ## Live Demo
 
-[View demo](https://mksenia728.github.io/goit-food-delivery/)
+[View demo](https://mksenia728.github.io/food-delivery-landing-page/)
 
 ## Features
 
